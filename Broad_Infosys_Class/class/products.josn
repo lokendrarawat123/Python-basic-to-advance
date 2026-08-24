@@ -1,0 +1,17 @@
+[
+    {
+        "Product Name": "Laptop",
+        "Product Brand": "HP",
+        "Product Price": "$5000"
+    },
+    {
+        "Product Name": "Charger",
+        "Product Brand": "NavyForce",
+        "Product Price": "$2000"
+    },
+    {
+        "Product Name": "Watch",
+        "Product Brand": "anker",
+        "Product Price": "$299.99"
+    }
+]
