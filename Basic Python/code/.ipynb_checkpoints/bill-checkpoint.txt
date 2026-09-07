@@ -1,0 +1,2 @@
+mobile 5000 2
+watch 3000 3

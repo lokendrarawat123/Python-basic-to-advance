@@ -1,0 +1,417 @@
+Complete Data Science with Python Topics Roadmap
+1. Python Programming
+Basics
+Introduction to Python
+Installing Python
+IDEs (VS Code, Jupyter Notebook)
+Python Syntax
+Comments
+Keywords
+Variables
+Constants
+Input and Output
+Data Types
+Type Casting
+Operators
+Arithmetic
+Comparison
+Logical
+Assignment
+Identity
+Membership
+Bitwise
+Control Flow
+if
+if-else
+if-elif-else
+Nested if
+Match-case (Python 3.10+)
+Loops
+for loop
+while loop
+Nested loops
+break
+continue
+pass
+Functions
+Function definition
+Parameters
+Arguments
+Return values
+Default arguments
+Keyword arguments
+Variable-length arguments
+Lambda functions
+Recursion
+Scope
+Docstrings
+Strings
+String methods
+Indexing
+Slicing
+Formatting
+f-strings
+Regular Expressions (Regex)
+Collections
+Lists
+Tuples
+Dictionaries
+Sets
+List Comprehension
+List comprehension
+Dictionary comprehension
+Set comprehension
+Generator expressions
+File Handling
+Reading files
+Writing files
+CSV
+JSON
+Pickle
+Exception Handling
+try
+except
+else
+finally
+raise
+Custom exceptions
+Object-Oriented Programming
+Classes
+Objects
+Constructors
+Inheritance
+Polymorphism
+Encapsulation
+Abstraction
+Magic methods
+Modules and Packages
+Importing modules
+Creating modules
+Virtual environments
+pip
+2. Mathematics for Data Science
+Linear Algebra
+Scalars
+Vectors
+Matrices
+Matrix operations
+Matrix multiplication
+Transpose
+Determinant
+Inverse
+Eigenvalues
+Eigenvectors
+Calculus
+Functions
+Limits
+Derivatives
+Partial derivatives
+Gradient
+Chain Rule
+Integrals
+Probability
+Sample space
+Events
+Conditional probability
+Bayes theorem
+Probability distributions
+Statistics
+Mean
+Median
+Mode
+Range
+Variance
+Standard deviation
+Percentiles
+Quartiles
+Skewness
+Kurtosis
+Correlation
+Covariance
+Hypothesis testing
+Confidence intervals
+p-value
+Z-test
+T-test
+Chi-square test
+ANOVA
+3. NumPy
+ndarray
+Creating arrays
+Data types
+Shape
+Dimensions
+Indexing
+Slicing
+Boolean indexing
+Fancy indexing
+Broadcasting
+Reshape
+Flatten
+Transpose
+Concatenate
+Split
+Stack
+Universal Functions (ufuncs)
+Mathematical operations
+Statistical functions
+Random module
+Linear algebra module
+4. Pandas
+Series
+Creating Series
+Indexing
+Operations
+DataFrame
+Creating DataFrame
+Reading CSV
+Reading Excel
+Reading SQL
+Writing files
+Data Selection
+loc
+iloc
+Filtering
+Query
+Data Cleaning
+Missing values
+Duplicate values
+Replace values
+Fill values
+Drop values
+Data Manipulation
+Sorting
+GroupBy
+Merge
+Join
+Concat
+Pivot
+Pivot Table
+Melt
+Crosstab
+DateTime
+Datetime operations
+Time series basics
+5. Data Visualization
+Matplotlib
+Line plot
+Scatter plot
+Bar chart
+Histogram
+Pie chart
+Box plot
+Subplots
+Legends
+Titles
+Labels
+Seaborn
+Distribution plots
+Pairplot
+Heatmap
+Countplot
+Violin plot
+Boxplot
+Jointplot
+Regression plot
+Plotly
+Interactive plots
+Dashboards
+6. Data Cleaning & Preprocessing
+Missing data
+Duplicate data
+Outlier detection
+Feature scaling
+Standardization
+Normalization
+Encoding
+Label Encoding
+One-Hot Encoding
+Binning
+Feature engineering
+Feature extraction
+Feature selection
+Data transformation
+7. Exploratory Data Analysis (EDA)
+Univariate analysis
+Bivariate analysis
+Multivariate analysis
+Correlation analysis
+Distribution analysis
+Outlier analysis
+Trend analysis
+8. SQL for Data Science
+Database basics
+Tables
+Constraints
+SELECT
+WHERE
+ORDER BY
+GROUP BY
+HAVING
+LIMIT
+Aggregate functions
+JOINs
+UNION
+Subqueries
+Common Table Expressions (CTEs)
+Window functions
+Views
+Indexes
+Stored procedures (overview)
+9. Machine Learning
+Machine Learning Basics
+Types of ML
+ML workflow
+Bias vs Variance
+Overfitting
+Underfitting
+Cross-validation
+Evaluation metrics
+Supervised Learning
+Regression
+Linear Regression
+Polynomial Regression
+Ridge Regression
+Lasso Regression
+Elastic Net
+Classification
+Logistic Regression
+Decision Tree
+Random Forest
+Support Vector Machine
+Naive Bayes
+K-Nearest Neighbors
+Gradient Boosting
+XGBoost
+LightGBM
+CatBoost
+Unsupervised Learning
+K-Means
+Hierarchical Clustering
+DBSCAN
+Principal Component Analysis (PCA)
+t-SNE
+Model Evaluation
+Accuracy
+Precision
+Recall
+F1 Score
+ROC Curve
+AUC
+Confusion Matrix
+MAE
+MSE
+RMSE
+R² Score
+Model Tuning
+Grid Search
+Random Search
+Hyperparameter tuning
+Pipelines
+10. Deep Learning
+Artificial Neural Networks (ANN)
+Perceptron
+Activation functions
+Loss functions
+Optimizers
+Backpropagation
+TensorFlow
+Keras
+PyTorch
+Convolutional Neural Networks (CNN)
+Recurrent Neural Networks (RNN)
+LSTM
+GRU
+Autoencoders
+Transfer Learning
+Transformers (Introduction)
+11. Natural Language Processing (NLP)
+Text preprocessing
+Tokenization
+Stop words
+Stemming
+Lemmatization
+Bag of Words
+TF-IDF
+Word Embeddings
+Word2Vec
+GloVe
+Sentiment Analysis
+Text Classification
+Named Entity Recognition (NER)
+Topic Modeling
+Transformers
+BERT
+12. Computer Vision
+Image processing basics
+OpenCV
+Image filtering
+Image transformations
+Face detection
+Object detection
+Image classification
+CNNs for vision
+13. Time Series Analysis
+Time series basics
+Trend
+Seasonality
+Moving averages
+ARIMA
+SARIMA
+Prophet
+Forecasting
+14. Big Data (Advanced)
+Hadoop (overview)
+Spark
+PySpark
+Distributed computing
+15. Deployment
+Flask
+FastAPI
+Streamlit
+Model serialization (Pickle, Joblib)
+REST APIs
+Docker (basics)
+Git & GitHub
+Cloud deployment (overview)
+16. MLOps (Introduction)
+ML pipelines
+Experiment tracking
+Model versioning
+Model monitoring
+CI/CD for ML
+Recommended Learning Order
+Python Programming
+Mathematics (Linear Algebra, Calculus, Probability, Statistics)
+NumPy
+Pandas
+Data Visualization
+Data Cleaning & Preprocessing
+Exploratory Data Analysis (EDA)
+SQL
+Machine Learning
+Deep Learning
+NLP
+Computer Vision
+Time Series Analysis
+Big Data
+Deployment
+MLOps
+
+
+Chapter 1: Python Basics
+Chapter 2: Advanced Python
+Chapter 3: NumPy
+Chapter 4: Pandas
+Chapter 5: Data Visualization
+Chapter 6: Statistics
+Chapter 7: SQL
+Chapter 8: Data Cleaning
+Chapter 9: EDA
+Chapter 10: Machine Learning
+Chapter 11: Deep Learning
+Chapter 12: NLP
+Chapter 13: Computer Vision
+Chapter 14: Time Series
+Chapter 15: Deployment
+Chapter 16: Interview Preparation
