@@ -1,0 +1,531 @@
+Car_Name,Year,Present_Price,Driven_kms,Fuel_Type,Selling_type,Transmission,Owner,Selling_Price
+ritz,2014,5.59,27000,Petrol,Dealer,Manual,0,3.35
+sx4,2013,9.54,43000,Diesel,Dealer,Manual,0,4.75
+ciaz,2017,9.85,6900,Petrol,Dealer,Manual,0,7.25
+wagon r,2011,4.15,5200,Petrol,Dealer,Manual,0,2.85
+swift,2014,6.87,42450,Diesel,Dealer,Manual,0,4.6
+vitara brez,2018,9.83,2071,Diesel,Dealer,Manual,0,9.25
+ciaz,2015,8.12,18796,Petrol,Dealer,Manual,0,6.75
+s cross,2015,8.61,33429,Diesel,Dealer,Manual,0,6.5
+ciaz,2015,8.89,20273,Diesel,Dealer,Manual,0,8.35
+ciaz,2015,8.92,42367,Diesel,Dealer,Manual,0,7.45
+alto 800,2017,3.6,2135,Petrol,Dealer,Manual,0,2.85
+ciaz,2015,10.38,51000,Diesel,Dealer,Manual,0,6.85
+ciaz,2015,9.94,19500,Petrol,Dealer,Automatic,0,7.5
+ertiga,2015,7.71,26000,Petrol,Dealer,Manual,0,6.1
+dzire,2009,7.21,77427,Petrol,Dealer,Manual,0,2.25
+ertiga,2016,10.79,43000,Diesel,Dealer,Manual,0,7.75
+ertiga,2015,10.79,41678,Diesel,Dealer,Manual,0,7.25
+alto 800,2012,3.0,40000,Petrol,Individual,Manual,1,1.98
+wagon r,2014,4.5,35000,CNG,Dealer,Manual,0,3.10
+swift,2013,6.0,45000,Petrol,Individual,Automatic,1,3.85
+ritz,2016,5.9,22000,Diesel,Dealer,Manual,0,4.5
+s cross,2017,9.5,15000,Diesel,Dealer,Manual,0,8.1
+ciaz,2018,10.0,12000,Petrol,Dealer,Automatic,0,8.9
+dzire,2014,7.0,32000,Petrol,Individual,Manual,1,4.4
+vitara brez,2015,9.0,27000,Diesel,Dealer,Manual,0,7.5
+ertiga,2013,8.5,50000,Diesel,Dealer,Manual,1,5.0
+wagon r,2015,4.2,18000,CNG,Individual,Manual,0,2.65
+alto 800,2016,3.4,15000,Petrol,Dealer,Manual,0,3.0
+swift,2012,6.2,65000,Diesel,Dealer,Manual,1,3.0
+ritz,2011,4.8,80000,Petrol,Dealer,Manual,2,1.5
+ciaz,2019,10.5,10000,Diesel,Dealer,Automatic,0,9.0
+ertiga,2017,11.0,28000,Diesel,Dealer,Manual,0,9.3
+s cross,2016,9.2,27000,Diesel,Individual,Automatic,0,7.7
+wagon r,2018,4.8,16000,Petrol,Dealer,Manual,0,4.3
+alto 800,2015,3.2,35000,Petrol,Dealer,Manual,0,2.75
+dzire,2013,7.3,37000,Diesel,Individual,Manual,1,4.1
+vitara brez,2017,9.4,23000,Diesel,Dealer,Manual,0,8.0
+ciaz,2014,8.55,40000,Petrol,Dealer,Manual,0,6.4
+sx4,2016,10.25,35000,Diesel,Dealer,Manual,0,8.8
+ertiga,2012,8.0,58000,Diesel,Dealer,Manual,1,5.5
+swift,2017,7.1,21000,Petrol,Dealer,Manual,0,6.5
+wagon r,2010,3.9,75000,CNG,Dealer,Manual,2,1.7
+alto 800,2018,3.5,13000,Petrol,Dealer,Manual,0,3.2
+ritz,2013,5.75,30000,Petrol,Dealer,Manual,0,3.5
+ciaz,2016,9.2,25000,Diesel,Dealer,Manual,0,7.15
+s cross,2014,8.35,37000,Diesel,Dealer,Manual,1,6.0
+ertiga,2018,10.7,20000,Diesel,Dealer,Automatic,0,9.0
+dzire,2011,6.8,62000,Petrol,Dealer,Manual,1,3.5
+wagon r,2013,4.4,46000,CNG,Dealer,Manual,0,3.0
+alto 800,2014,3.2,33000,Petrol,Dealer,Manual,0,2.7
+ritz,2015,5.9,15000,Petrol,Individual,Manual,0,4.7
+ciaz,2012,8.0,48000,Diesel,Dealer,Manual,1,5.2
+swift,2011,6.5,53000,Diesel,Dealer,Manual,2,3.2
+ertiga,2014,7.5,43000,Diesel,Individual,Manual,1,5.0
+sx4,2015,9.85,37000,Diesel,Dealer,Manual,0,7.4
+wagon r,2016,4.6,12000,CNG,Dealer,Manual,0,4.2
+alto 800,2017,3.6,11000,Petrol,Dealer,Manual,0,3.3
+dzire,2008,6.4,85000,Petrol,Dealer,Manual,2,2.1
+ritz,2014,5.8,26000,Petrol,Dealer,Manual,0,3.6
+ciaz,2016,9.3,22000,Petrol,Dealer,Automatic,0,6.8
+swift,2013,6.7,40000,Diesel,Dealer,Manual,0,4.4
+ertiga,2015,7.9,30000,Diesel,Dealer,Manual,0,6.2
+s cross,2017,9.0,19000,Diesel,Dealer,Manual,0,7.8
+wagon r,2012,4.3,41000,CNG,Dealer,Manual,1,3.1
+alto 800,2010,3.1,60000,Petrol,Dealer,Manual,2,2.0
+sx4,2015,10.1,20000,Diesel,Dealer,Manual,0,8.2
+ciaz,2014,8.4,35000,Petrol,Dealer,Manual,0,6.3
+ritz,2013,5.6,42000,Petrol,Dealer,Manual,0,3.4
+ertiga,2017,10.4,21000,Diesel,Dealer,Automatic,0,8.9
+swift,2016,7.3,27000,Diesel,Individual,Manual,0,5.8
+dzire,2009,6.8,78000,Petrol,Dealer,Manual,1,2.7
+wagon r,2011,4.0,55000,CNG,Dealer,Manual,2,2.8
+alto 800,2015,3.7,29000,Petrol,Dealer,Manual,0,3.0
+sx4,2014,9.6,39000,Diesel,Dealer,Manual,0,7.6
+ciaz,2013,8.15,46000,Petrol,Dealer,Manual,1,5.3
+ertiga,2018,11.2,15000,Diesel,Dealer,Manual,0,9.5
+swift,2012,6.0,50000,Diesel,Dealer,Manual,1,3.9
+ritz,2015,5.9,21000,Petrol,Dealer,Manual,0,4.8
+wagon r,2017,4.7,14000,CNG,Dealer,Manual,0,4.05
+alto 800,2016,3.5,18000,Petrol,Dealer,Manual,0,3.4
+ciaz,2014,8.5,38000,Diesel,Dealer,Manual,0,6.7
+sx4,2017,10.3,17000,Diesel,Dealer,Manual,0,8.4
+ertiga,2013,8.4,46000,Diesel,Individual,Manual,1,5.4
+swift,2013,6.5,44000,Petrol,Dealer,Manual,0,4.2
+dzire,2010,6.9,75000,Petrol,Dealer,Manual,1,3.0
+wagon r,2014,4.5,34000,CNG,Dealer,Manual,0,3.2
+alto 800,2012,3.3,29000,Petrol,Dealer,Manual,1,2.6
+ritz,2016,6.2,19000,Petrol,Dealer,Manual,0,5.1
+ciaz,2017,9.8,13000,Diesel,Dealer,Automatic,0,8.1
+sx4,2015,9.2,34000,Diesel,Dealer,Manual,0,7.1
+ertiga,2016,10.5,22000,Diesel,Dealer,Automatic,0,8.2
+swift,2011,6.1,52000,Petrol,Dealer,Manual,1,3.3
+dzire,2013,7.4,35000,Petrol,Dealer,Manual,0,4.8
+wagon r,2015,4.8,25000,CNG,Dealer,Manual,0,4.1
+alto 800,2017,3.5,15500,Petrol,Dealer,Manual,0,3.3
+ciaz,2014,8.1,42000,Diesel,Dealer,Manual,1,6.1
+sx4,2012,9.0,45000,Diesel,Dealer,Manual,0,6.2
+ertiga,2013,8.8,49000,Diesel,Dealer,Manual,1,5.3
+swift,2016,7.5,24000,Petrol,Dealer,Manual,0,6.0
+wagon r,2010,4.1,58000,CNG,Dealer,Manual,2,1.9
+alto 800,2018,3.6,12000,Petrol,Dealer,Manual,0,3.2
+ritz,2013,5.7,28000,Petrol,Dealer,Manual,0,3.3
+ciaz,2016,9.0,23000,Diesel,Dealer,Manual,0,7.0
+s cross,2014,8.6,31000,Diesel,Dealer,Manual,0,6.3
+ertiga,2017,10.8,19000,Diesel,Dealer,Automatic,0,9.0
+dzire,2011,7.0,60000,Petrol,Dealer,Manual,1,3.3
+wagon r,2013,4.3,47000,CNG,Dealer,Manual,0,3.0
+alto 800,2014,3.4,32000,Petrol,Dealer,Manual,0,2.8
+ritz,2015,5.8,18000,Petrol,Dealer,Manual,0,4.5
+ciaz,2012,8.2,46000,Diesel,Dealer,Manual,1,5.5
+swift,2010,6.4,54000,Diesel,Dealer,Manual,2,3.1
+ertiga,2014,7.7,42000,Diesel,Individual,Manual,1,5.1
+sx4,2015,9.6,36000,Diesel,Dealer,Manual,0,7.0
+wagon r,2016,4.7,13000,CNG,Dealer,Manual,0,4.3
+alto 800,2017,3.4,14000,Petrol,Dealer,Manual,0,3.2
+dzire,2009,6.5,80000,Petrol,Dealer,Manual,2,2.4
+ritz,2014,6.0,25000,Petrol,Dealer,Manual,0,3.85
+ciaz,2016,9.1,21000,Petrol,Dealer,Automatic,0,7.2
+swift,2013,6.8,39000,Diesel,Dealer,Manual,0,4.3
+ertiga,2015,8.0,28000,Diesel,Dealer,Manual,0,6.3
+s cross,2017,9.3,17000,Diesel,Dealer,Manual,0,7.9
+wagon r,2012,4.2,40000,CNG,Dealer,Manual,1,3.0
+alto 800,2011,3.0,62000,Petrol,Dealer,Manual,2,1.9
+sx4,2015,10.0,19000,Diesel,Dealer,Manual,0,8.0
+ciaz,2014,8.3,36000,Petrol,Dealer,Manual,0,6.5
+ritz,2013,5.5,41000,Petrol,Dealer,Manual,0,3.2
+ertiga,2018,11.0,20000,Diesel,Dealer,Automatic,0,9.4
+swift,2016,7.2,25000,Diesel,Individual,Manual,0,5.7
+dzire,2008,6.9,79000,Petrol,Dealer,Manual,1,2.8
+wagon r,2011,4.1,54000,CNG,Dealer,Manual,2,2.7
+alto 800,2015,3.6,28000,Petrol,Dealer,Manual,0,3.0
+sx4,2014,9.3,38000,Diesel,Dealer,Manual,0,7.3
+ciaz,2013,7.9,44000,Petrol,Dealer,Manual,1,5.1
+ertiga,2018,11.3,16000,Diesel,Dealer,Manual,0,9.7
+swift,2012,6.1,49000,Diesel,Dealer,Manual,1,4.0
+ritz,2015,6.0,20000,Petrol,Dealer,Manual,0,4.9
+wagon r,2017,4.8,15000,CNG,Dealer,Manual,0,4.1
+alto 800,2016,3.5,17000,Petrol,Dealer,Manual,0,3.3
+ciaz,2014,8.4,39000,Diesel,Dealer,Manual,1,6.3
+sx4,2012,9.1,44000,Diesel,Dealer,Manual,0,6.1
+ertiga,2013,9.0,48000,Diesel,Dealer,Manual,1,5.2
+swift,2016,7.4,23000,Petrol,Dealer,Manual,0,5.9
+wagon r,2010,4.0,57000,CNG,Dealer,Manual,2,1.8
+alto 800,2018,3.7,11000,Petrol,Dealer,Manual,0,3.3
+ritz,2013,5.6,27000,Petrol,Dealer,Manual,0,3.4
+ciaz,2016,8.8,24000,Diesel,Dealer,Manual,0,6.9
+s cross,2014,8.4,30000,Diesel,Dealer,Manual,0,6.1
+ertiga,2017,10.9,18000,Diesel,Dealer,Automatic,0,9.1
+dzire,2011,7.2,62000,Petrol,Dealer,Manual,1,3.4
+wagon r,2013,4.4,46000,CNG,Dealer,Manual,0,3.1
+alto 800,2014,3.3,31000,Petrol,Dealer,Manual,0,2.9
+ritz,2015,5.7,17000,Petrol,Dealer,Manual,0,4.6
+ciaz,2012,8.1,45000,Diesel,Dealer,Manual,1,5.4
+swift,2010,6.3,53000,Diesel,Dealer,Manual,2,3.0
+ertiga,2014,7.6,41000,Diesel,Individual,Manual,1,5.0
+sx4,2015,9.5,35000,Diesel,Dealer,Manual,0,6.9
+wagon r,2016,4.5,12000,CNG,Dealer,Manual,0,4.1
+alto 800,2017,3.4,13000,Petrol,Dealer,Manual,0,3.1
+dzire,2009,6.6,81000,Petrol,Dealer,Manual,2,2.3
+ritz,2014,6.1,24000,Petrol,Dealer,Manual,0,3.9
+ciaz,2016,9.0,22000,Petrol,Dealer,Automatic,0,7.0
+swift,2013,6.7,38000,Diesel,Dealer,Manual,0,4.4
+ertiga,2015,7.9,29000,Diesel,Dealer,Manual,0,6.1
+s cross,2017,9.2,16000,Diesel,Dealer,Manual,0,7.8
+wagon r,2012,4.1,39000,CNG,Dealer,Manual,1,3.0
+alto 800,2011,3.1,61000,Petrol,Dealer,Manual,2,2.0
+sx4,2015,9.9,18000,Diesel,Dealer,Manual,0,7.9
+ciaz,2014,8.2,35000,Petrol,Dealer,Manual,0,6.4
+ritz,2013,5.4,40000,Petrol,Dealer,Manual,0,3.1
+ertiga,2018,10.8,19000,Diesel,Dealer,Automatic,0,9.3
+swift,2016,7.1,24000,Diesel,Individual,Manual,0,5.8
+dzire,2008,6.8,78000,Petrol,Dealer,Manual,1,2.7
+wagon r,2011,4.0,53000,CNG,Dealer,Manual,2,2.6
+alto 800,2015,3.5,27000,Petrol,Dealer,Manual,0,2.9
+sx4,2014,9.1,37000,Diesel,Dealer,Manual,0,7.2
+ciaz,2013,7.8,43000,Petrol,Dealer,Manual,1,5.0
+ertiga,2018,11.1,15000,Diesel,Dealer,Manual,0,9.5
+swift,2012,6.0,48000,Diesel,Dealer,Manual,1,3.8
+ritz,2015,5.9,19000,Petrol,Dealer,Manual,0,4.7
+wagon r,2017,4.6,14000,CNG,Dealer,Manual,0,4.0
+alto 800,2016,3.3,16000,Petrol,Dealer,Manual,0,3.1
+ciaz,2014,8.3,38000,Diesel,Dealer,Manual,1,6.2
+sx4,2012,9.0,43000,Diesel,Dealer,Manual,0,6.0
+ertiga,2013,8.6,47000,Diesel,Dealer,Manual,1,5.1
+swift,2016,7.3,22000,Petrol,Dealer,Manual,0,5.7
+wagon r,2010,4.0,56000,CNG,Dealer,Manual,2,1.7
+alto 800,2018,3.7,12000,Petrol,Dealer,Manual,0,3.4
+ritz,2013,5.7,26000,Petrol,Dealer,Manual,0,3.2
+ciaz,2016,8.9,23000,Diesel,Dealer,Manual,0,6.8
+s cross,2014,8.5,29000,Diesel,Dealer,Manual,0,6.0
+ertiga,2017,11.0,17000,Diesel,Dealer,Automatic,0,9.0
+dzire,2011,7.1,61000,Petrol,Dealer,Manual,1,3.5
+wagon r,2013,4.3,45000,CNG,Dealer,Manual,0,3.1
+alto 800,2014,3.3,30000,Petrol,Dealer,Manual,0,2.7
+ritz,2015,5.8,19000,Petrol,Dealer,Manual,0,4.5
+ciaz,2012,8.0,44000,Diesel,Dealer,Manual,1,5.3
+swift,2010,6.3,52000,Diesel,Dealer,Manual,2,3.0
+ertiga,2014,7.4,40000,Diesel,Individual,Manual,1,5.0
+sx4,2015,9.4,34000,Diesel,Dealer,Manual,0,7.1
+wagon r,2016,4.6,11000,CNG,Dealer,Manual,0,4.2
+alto 800,2017,3.5,13000,Petrol,Dealer,Manual,0,3.1
+dzire,2009,6.4,79000,Petrol,Dealer,Manual,2,2.4
+ritz,2014,6.0,23000,Petrol,Dealer,Manual,0,3.9
+ciaz,2016,9.1,21000,Petrol,Dealer,Automatic,0,7.1
+swift,2013,6.7,37000,Diesel,Dealer,Manual,0,4.4
+ertiga,2015,7.8,27000,Diesel,Dealer,Manual,0,6.2
+s cross,2017,9.2,16000,Diesel,Dealer,Manual,0,7.7
+wagon r,2012,4.1,38000,CNG,Dealer,Manual,1,3.0
+alto 800,2011,3.2,60000,Petrol,Dealer,Manual,2,1.8
+sx4,2015,9.7,17000,Diesel,Dealer,Manual,0,7.7
+ciaz,2014,8.3,35000,Petrol,Dealer,Manual,0,6.3
+ritz,2013,5.5,40000,Petrol,Dealer,Manual,0,3.0
+ertiga,2018,10.9,18000,Diesel,Dealer,Automatic,0,9.1
+swift,2016,7.2,24000,Diesel,Individual,Manual,0,5.6
+dzire,2008,6.8,77000,Petrol,Dealer,Manual,1,2.8
+wagon r,2011,4.0,52000,CNG,Dealer,Manual,2,2.5
+alto 800,2015,3.4,26000,Petrol,Dealer,Manual,0,2.9
+sx4,2014,9.2,36000,Diesel,Dealer,Manual,0,7.2
+ciaz,2013,7.7,42000,Petrol,Dealer,Manual,1,5.0
+ertiga,2018,11.2,16000,Diesel,Dealer,Manual,0,9.4
+swift,2012,6.0,48000,Diesel,Dealer,Manual,1,3.9
+ritz,2015,6.0,19000,Petrol,Dealer,Manual,0,4.6
+wagon r,2017,4.7,14000,CNG,Dealer,Manual,0,4.0
+alto 800,2016,3.6,15000,Petrol,Dealer,Manual,0,3.2
+ciaz,2014,8.4,39000,Diesel,Dealer,Manual,1,6.4
+sx4,2012,9.0,43000,Diesel,Dealer,Manual,0,6.2
+ertiga,2013,8.7,47000,Diesel,Dealer,Manual,1,5.3
+swift,2016,7.5,22000,Petrol,Dealer,Manual,0,6.0
+wagon r,2010,4.1,55000,CNG,Dealer,Manual,2,2.0
+alto 800,2018,3.7,13000,Petrol,Dealer,Manual,0,3.4
+ritz,2013,5.7,26000,Petrol,Dealer,Manual,0,3.3
+ciaz,2016,8.9,23000,Diesel,Dealer,Manual,0,6.8
+s cross,2014,8.5,29000,Diesel,Dealer,Manual,0,6.1
+ertiga,2017,11.0,17000,Diesel,Dealer,Automatic,0,9.1
+dzire,2011,7.1,60000,Petrol,Dealer,Manual,1,3.5
+wagon r,2013,4.3,45000,CNG,Dealer,Manual,0,3.0
+alto 800,2014,3.3,31000,Petrol,Dealer,Manual,0,2.8
+ritz,2015,5.8,19000,Petrol,Dealer,Manual,0,4.5
+ciaz,2012,8.1,45000,Diesel,Dealer,Manual,1,5.3
+swift,2010,6.3,52000,Diesel,Dealer,Manual,2,3.0
+ertiga,2014,7.4,40000,Diesel,Individual,Manual,1,5.0
+sx4,2015,9.4,34000,Diesel,Dealer,Manual,0,7.0
+wagon r,2016,4.6,11000,CNG,Dealer,Manual,0,4.2
+alto 800,2017,3.5,13000,Petrol,Dealer,Manual,0,3.1
+dzire,2009,6.4,79000,Petrol,Dealer,Manual,2,2.3
+ritz,2014,6.0,23000,Petrol,Dealer,Manual,0,3.8
+ciaz,2016,9.1,21000,Petrol,Dealer,Automatic,0,7.1
+swift,2013,6.7,38000,Diesel,Dealer,Manual,0,4.3
+ertiga,2015,7.9,27000,Diesel,Dealer,Manual,0,6.1
+s cross,2017,9.2,16000,Diesel,Dealer,Manual,0,7.8
+wagon r,2012,4.1,39000,CNG,Dealer,Manual,1,3.0
+alto 800,2011,3.2,60000,Petrol,Dealer,Manual,2,1.9
+sx4,2015,9.7,17000,Diesel,Dealer,Manual,0,7.7
+ciaz,2014,8.3,35000,Petrol,Dealer,Manual,0,6.3
+ritz,2013,5.5,40000,Petrol,Dealer,Manual,0,3.0
+ertiga,2018,10.9,18000,Diesel,Dealer,Automatic,0,9.0
+swift,2016,7.2,24000,Diesel,Individual,Manual,0,5.6
+dzire,2008,6.8,77000,Petrol,Dealer,Manual,1,2.8
+wagon r,2011,4.0,52000,CNG,Dealer,Manual,2,2.5
+alto 800,2015,3.4,26000,Petrol,Dealer,Manual,0,2.9
+sx4,2014,9.2,36000,Diesel,Dealer,Manual,0,7.2
+ciaz,2013,7.7,42000,Petrol,Dealer,Manual,1,5.0
+ertiga,2018,11.2,16000,Diesel,Dealer,Manual,0,9.4
+swift,2012,6.0,48000,Diesel,Dealer,Manual,1,3.9
+ritz,2015,6.0,19000,Petrol,Dealer,Manual,0,4.6
+wagon r,2017,4.7,14000,CNG,Dealer,Manual,0,4.0
+alto 800,2016,3.6,15000,Petrol,Dealer,Manual,0,3.2
+ciaz,2014,8.4,39000,Diesel,Dealer,Manual,1,6.4
+sx4,2012,9.0,43000,Diesel,Dealer,Manual,0,6.2
+ertiga,2013,8.7,47000,Diesel,Dealer,Manual,1,5.3
+swift,2016,7.5,22000,Petrol,Dealer,Manual,0,6.0
+wagon r,2010,4.1,55000,CNG,Dealer,Manual,2,2.0
+alto 800,2018,3.7,13000,Petrol,Dealer,Manual,0,3.4
+ritz,2013,5.7,26000,Petrol,Dealer,Manual,0,3.3
+ciaz,2016,8.9,23000,Diesel,Dealer,Manual,0,6.8
+s cross,2014,8.5,29000,Diesel,Dealer,Manual,0,6.1
+ertiga,2017,11.0,17000,Diesel,Dealer,Automatic,0,9.1
+dzire,2011,7.1,60000,Petrol,Dealer,Manual,1,3.5
+wagon r,2013,4.3,45000,CNG,Dealer,Manual,0,3.0
+alto 800,2014,3.3,31000,Petrol,Dealer,Manual,0,2.8
+ritz,2015,5.8,19000,Petrol,Dealer,Manual,0,4.5
+ciaz,2012,8.1,45000,Diesel,Dealer,Manual,1,5.3
+swift,2010,6.3,52000,Diesel,Dealer,Manual,2,3.0
+ertiga,2014,7.4,40000,Diesel,Individual,Manual,1,5.0
+sx4,2015,9.4,34000,Diesel,Dealer,Manual,0,7.0
+wagon r,2016,4.6,11000,CNG,Dealer,Manual,0,4.2
+alto 800,2017,3.5,13000,Petrol,Dealer,Manual,0,3.1
+dzire,2009,6.4,79000,Petrol,Dealer,Manual,2,2.3
+ritz,2014,6.0,23000,Petrol,Dealer,Manual,0,3.8
+ciaz,2016,9.1,21000,Petrol,Dealer,Automatic,0,7.1
+swift,2013,6.7,38000,Diesel,Dealer,Manual,0,4.3
+ertiga,2015,7.9,27000,Diesel,Dealer,Manual,0,6.1
+s cross,2017,9.2,16000,Diesel,Dealer,Manual,0,7.8
+wagon r,2012,4.1,39000,CNG,Dealer,Manual,1,3.0
+alto 800,2011,3.2,60000,Petrol,Dealer,Manual,2,1.9
+sx4,2015,9.7,17000,Diesel,Dealer,Manual,0,7.7
+ciaz,2014,8.3,35000,Petrol,Dealer,Manual,0,6.3
+ritz,2013,5.5,40000,Petrol,Dealer,Manual,0,3.0
+ertiga,2018,10.9,18000,Diesel,Dealer,Automatic,0,9.0
+swift,2016,7.2,24000,Diesel,Individual,Manual,0,5.6
+dzire,2008,6.8,77000,Petrol,Dealer,Manual,1,2.8
+wagon r,2011,4.0,52000,CNG,Dealer,Manual,2,2.5
+alto 800,2015,3.4,26000,Petrol,Dealer,Manual,0,2.9
+sx4,2014,9.2,36000,Diesel,Dealer,Manual,0,7.2
+ciaz,2013,7.7,42000,Petrol,Dealer,Manual,1,5.0
+ertiga,2018,11.2,16000,Diesel,Dealer,Manual,0,9.4
+swift,2012,6.0,48000,Diesel,Dealer,Manual,1,3.9
+ritz,2015,6.0,19000,Petrol,Dealer,Manual,0,4.6
+wagon r,2017,4.7,14000,CNG,Dealer,Manual,0,4.0
+alto 800,2016,3.6,15000,Petrol,Dealer,Manual,0,3.2
+ciaz,2014,8.4,39000,Diesel,Dealer,Manual,1,6.4
+sx4,2012,9.0,43000,Diesel,Dealer,Manual,0,6.2
+ertiga,2013,8.7,47000,Diesel,Dealer,Manual,1,5.3
+swift,2016,7.5,22000,Petrol,Dealer,Manual,0,6.0
+wagon r,2010,4.1,55000,CNG,Dealer,Manual,2,2.0
+alto 800,2018,3.7,13000,Petrol,Dealer,Manual,0,3.4
+ritz,2013,5.7,26000,Petrol,Dealer,Manual,0,3.3
+ciaz,2016,8.9,23000,Diesel,Dealer,Manual,0,6.8
+s cross,2014,8.5,29000,Diesel,Dealer,Manual,0,6.1
+ertiga,2017,11.0,17000,Diesel,Dealer,Automatic,0,9.1
+dzire,2011,7.1,60000,Petrol,Dealer,Manual,1,3.5
+wagon r,2013,4.3,45000,CNG,Dealer,Manual,0,3.0
+alto 800,2014,3.3,31000,Petrol,Dealer,Manual,0,2.8
+ritz,2015,5.8,19000,Petrol,Dealer,Manual,0,4.5
+ciaz,2012,8.1,45000,Diesel,Dealer,Manual,1,5.3
+swift,2010,6.3,52000,Diesel,Dealer,Manual,2,3.0
+ertiga,2014,7.4,40000,Diesel,Individual,Manual,1,5.0
+sx4,2015,9.4,34000,Diesel,Dealer,Manual,0,7.0
+wagon r,2016,4.6,11000,CNG,Dealer,Manual,0,4.2
+alto 800,2017,3.5,13000,Petrol,Dealer,Manual,0,3.1
+dzire,2009,6.4,79000,Petrol,Dealer,Manual,2,2.3
+ritz,2014,6.0,23000,Petrol,Dealer,Manual,0,3.8
+ciaz,2016,9.1,21000,Petrol,Dealer,Automatic,0,7.1
+swift,2013,6.7,38000,Diesel,Dealer,Manual,0,4.3
+ertiga,2015,7.9,27000,Diesel,Dealer,Manual,0,6.1
+s cross,2017,9.2,16000,Diesel,Dealer,Manual,0,7.8
+wagon r,2012,4.1,39000,CNG,Dealer,Manual,1,3.0
+alto 800,2011,3.2,60000,Petrol,Dealer,Manual,2,1.9
+sx4,2015,9.7,17000,Diesel,Dealer,Manual,0,7.7
+ciaz,2014,8.3,35000,Petrol,Dealer,Manual,0,6.3
+ritz,2013,5.5,40000,Petrol,Dealer,Manual,0,3.0
+ertiga,2018,10.9,18000,Diesel,Dealer,Automatic,0,9.0
+swift,2016,7.2,24000,Diesel,Individual,Manual,0,5.6
+dzire,2008,6.8,77000,Petrol,Dealer,Manual,1,2.8
+wagon r,2011,4.0,52000,CNG,Dealer,Manual,2,2.5
+alto 800,2015,3.4,26000,Petrol,Dealer,Manual,0,2.9
+sx4,2014,9.2,36000,Diesel,Dealer,Manual,0,7.2
+ciaz,2013,7.7,42000,Petrol,Dealer,Manual,1,5.0
+ertiga,2018,11.2,16000,Diesel,Dealer,Manual,0,9.4
+swift,2012,6.0,48000,Diesel,Dealer,Manual,1,3.9
+ritz,2015,6.0,19000,Petrol,Dealer,Manual,0,4.6
+wagon r,2017,4.7,14000,CNG,Dealer,Manual,0,4.0
+alto 800,2016,3.6,15000,Petrol,Dealer,Manual,0,3.2
+ciaz,2014,8.4,39000,Diesel,Dealer,Manual,1,6.4
+sx4,2012,9.0,43000,Diesel,Dealer,Manual,0,6.2
+ertiga,2013,8.7,47000,Diesel,Dealer,Manual,1,5.3
+swift,2016,7.5,22000,Petrol,Dealer,Manual,0,6.0
+wagon r,2010,4.1,55000,CNG,Dealer,Manual,2,2.0
+alto 800,2018,3.7,13000,Petrol,Dealer,Manual,0,3.4
+ritz,2013,5.7,26000,Petrol,Dealer,Manual,0,3.3
+ciaz,2016,8.9,23000,Diesel,Dealer,Manual,0,6.8
+s cross,2014,8.5,29000,Diesel,Dealer,Manual,0,6.1
+ertiga,2017,11.0,17000,Diesel,Dealer,Automatic,0,9.1
+dzire,2011,7.1,60000,Petrol,Dealer,Manual,1,3.5
+wagon r,2013,4.3,45000,CNG,Dealer,Manual,0,3.0
+alto 800,2014,3.3,31000,Petrol,Dealer,Manual,0,2.8
+ritz,2015,5.8,19000,Petrol,Dealer,Manual,0,4.5
+ciaz,2012,8.1,45000,Diesel,Dealer,Manual,1,5.3
+swift,2010,6.3,52000,Diesel,Dealer,Manual,2,3.0
+ertiga,2014,7.4,40000,Diesel,Individual,Manual,1,5.0
+sx4,2015,9.4,34000,Diesel,Dealer,Manual,0,7.0
+wagon r,2016,4.6,11000,CNG,Dealer,Manual,0,4.2
+alto 800,2017,3.5,13000,Petrol,Dealer,Manual,0,3.1
+dzire,2009,6.4,79000,Petrol,Dealer,Manual,2,2.3
+ritz,2014,6.0,23000,Petrol,Dealer,Manual,0,3.8
+ciaz,2016,9.1,21000,Petrol,Dealer,Automatic,0,7.1
+swift,2013,6.7,38000,Diesel,Dealer,Manual,0,4.3
+ertiga,2015,7.9,27000,Diesel,Dealer,Manual,0,6.1
+s cross,2017,9.2,16000,Diesel,Dealer,Manual,0,7.8
+wagon r,2012,4.1,39000,CNG,Dealer,Manual,1,3.0
+alto 800,2011,3.2,60000,Petrol,Dealer,Manual,2,1.9
+sx4,2015,9.7,17000,Diesel,Dealer,Manual,0,7.7
+ciaz,2014,8.3,35000,Petrol,Dealer,Manual,0,6.3
+ritz,2013,5.5,40000,Petrol,Dealer,Manual,0,3.0
+ertiga,2018,10.9,18000,Diesel,Dealer,Automatic,0,9.0
+swift,2016,7.2,24000,Diesel,Individual,Manual,0,5.6
+dzire,2008,6.8,77000,Petrol,Dealer,Manual,1,2.8
+wagon r,2011,4.0,52000,CNG,Dealer,Manual,2,2.5
+alto 800,2015,3.4,26000,Petrol,Dealer,Manual,0,2.9
+sx4,2014,9.2,36000,Diesel,Dealer,Manual,0,7.2
+ciaz,2013,7.7,42000,Petrol,Dealer,Manual,1,5.0
+ertiga,2018,11.2,16000,Diesel,Dealer,Manual,0,9.4
+swift,2012,6.0,48000,Diesel,Dealer,Manual,1,3.9
+ritz,2015,6.0,19000,Petrol,Dealer,Manual,0,4.6
+wagon r,2017,4.7,14000,CNG,Dealer,Manual,0,4.0
+alto 800,2016,3.6,15000,Petrol,Dealer,Manual,0,3.2
+ciaz,2014,8.4,39000,Diesel,Dealer,Manual,1,6.4
+sx4,2012,9.0,43000,Diesel,Dealer,Manual,0,6.2
+ertiga,2013,8.7,47000,Diesel,Dealer,Manual,1,5.3
+swift,2016,7.5,22000,Petrol,Dealer,Manual,0,6.0
+wagon r,2010,4.1,55000,CNG,Dealer,Manual,2,2.0
+alto 800,2018,3.7,13000,Petrol,Dealer,Manual,0,3.4
+ritz,2013,5.7,26000,Petrol,Dealer,Manual,0,3.3
+ciaz,2016,8.9,23000,Diesel,Dealer,Manual,0,6.8
+s cross,2014,8.5,29000,Diesel,Dealer,Manual,0,6.1
+ertiga,2017,11.0,17000,Diesel,Dealer,Automatic,0,9.1
+dzire,2011,7.1,60000,Petrol,Dealer,Manual,1,3.5
+wagon r,2013,4.3,45000,CNG,Dealer,Manual,0,3.0
+alto 800,2014,3.3,31000,Petrol,Dealer,Manual,0,2.8
+ritz,2015,5.8,19000,Petrol,Dealer,Manual,0,4.5
+ciaz,2012,8.1,45000,Diesel,Dealer,Manual,1,5.3
+swift,2010,6.3,52000,Diesel,Dealer,Manual,2,3.0
+ertiga,2014,7.4,40000,Diesel,Individual,Manual,1,5.0
+sx4,2015,9.4,34000,Diesel,Dealer,Manual,0,7.0
+wagon r,2016,4.6,11000,CNG,Dealer,Manual,0,4.2
+alto 800,2017,3.5,13000,Petrol,Dealer,Manual,0,3.1
+dzire,2009,6.4,79000,Petrol,Dealer,Manual,2,2.3
+ritz,2014,6.0,23000,Petrol,Dealer,Manual,0,3.8
+ciaz,2016,9.1,21000,Petrol,Dealer,Automatic,0,7.1
+swift,2013,6.7,38000,Diesel,Dealer,Manual,0,4.3
+ertiga,2015,7.9,27000,Diesel,Dealer,Manual,0,6.1
+s cross,2017,9.2,16000,Diesel,Dealer,Manual,0,7.8
+wagon r,2012,4.1,39000,CNG,Dealer,Manual,1,3.0
+alto 800,2011,3.2,60000,Petrol,Dealer,Manual,2,1.9
+sx4,2015,9.7,17000,Diesel,Dealer,Manual,0,7.7
+ciaz,2014,8.3,35000,Petrol,Dealer,Manual,0,6.3
+ritz,2013,5.5,40000,Petrol,Dealer,Manual,0,3.0
+ertiga,2018,10.9,18000,Diesel,Dealer,Automatic,0,9.0
+swift,2016,7.2,24000,Diesel,Individual,Manual,0,5.6
+dzire,2008,6.8,77000,Petrol,Dealer,Manual,1,2.8
+wagon r,2011,4.0,52000,CNG,Dealer,Manual,2,2.5
+alto 800,2015,3.4,26000,Petrol,Dealer,Manual,0,2.9
+sx4,2014,9.2,36000,Diesel,Dealer,Manual,0,7.2
+ciaz,2013,7.7,42000,Petrol,Dealer,Manual,1,5.0
+ertiga,2018,11.2,16000,Diesel,Dealer,Manual,0,9.4
+swift,2012,6.0,48000,Diesel,Dealer,Manual,1,3.9
+ritz,2015,6.0,19000,Petrol,Dealer,Manual,0,4.6
+wagon r,2017,4.7,14000,CNG,Dealer,Manual,0,4.0
+alto 800,2016,3.6,15000,Petrol,Dealer,Manual,0,3.2
+ciaz,2014,8.4,39000,Diesel,Dealer,Manual,1,6.4
+sx4,2012,9.0,43000,Diesel,Dealer,Manual,0,6.2
+ertiga,2013,8.7,47000,Diesel,Dealer,Manual,1,5.3
+swift,2016,7.5,22000,Petrol,Dealer,Manual,0,6.0
+wagon r,2010,4.1,55000,CNG,Dealer,Manual,2,2.0
+alto 800,2018,3.7,13000,Petrol,Dealer,Manual,0,3.4
+ritz,2013,5.7,26000,Petrol,Dealer,Manual,0,3.3
+ciaz,2016,8.9,23000,Diesel,Dealer,Manual,0,6.8
+s cross,2014,8.5,29000,Diesel,Dealer,Manual,0,6.1
+ertiga,2017,11.0,17000,Diesel,Dealer,Automatic,0,9.1
+dzire,2011,7.1,60000,Petrol,Dealer,Manual,1,3.5
+wagon r,2013,4.3,45000,CNG,Dealer,Manual,0,3.0
+alto 800,2014,3.3,31000,Petrol,Dealer,Manual,0,2.8
+ritz,2015,5.8,19000,Petrol,Dealer,Manual,0,4.5
+ciaz,2012,8.1,45000,Diesel,Dealer,Manual,1,5.3
+swift,2010,6.3,52000,Diesel,Dealer,Manual,2,3.0
+ertiga,2014,7.4,40000,Diesel,Individual,Manual,1,5.0
+sx4,2015,9.4,34000,Diesel,Dealer,Manual,0,7.0
+wagon r,2016,4.6,11000,CNG,Dealer,Manual,0,4.2
+alto 800,2017,3.5,13000,Petrol,Dealer,Manual,0,3.1
+dzire,2009,6.4,79000,Petrol,Dealer,Manual,2,2.3
+ritz,2014,6.0,23000,Petrol,Dealer,Manual,0,3.8
+ciaz,2016,9.1,21000,Petrol,Dealer,Automatic,0,7.1
+swift,2013,6.7,38000,Diesel,Dealer,Manual,0,4.3
+ertiga,2015,7.9,27000,Diesel,Dealer,Manual,0,6.1
+s cross,2017,9.2,16000,Diesel,Dealer,Manual,0,7.8
+wagon r,2012,4.1,39000,CNG,Dealer,Manual,1,3.0
+alto 800,2011,3.2,60000,Petrol,Dealer,Manual,2,1.9
+sx4,2015,9.7,17000,Diesel,Dealer,Manual,0,7.7
+ciaz,2014,8.3,35000,Petrol,Dealer,Manual,0,6.3
+ritz,2013,5.5,40000,Petrol,Dealer,Manual,0,3.0
+ertiga,2018,10.9,18000,Diesel,Dealer,Automatic,0,9.0
+swift,2016,7.2,24000,Diesel,Individual,Manual,0,5.6
+dzire,2008,6.8,77000,Petrol,Dealer,Manual,1,2.8
+wagon r,2011,4.0,52000,CNG,Dealer,Manual,2,2.5
+alto 800,2015,3.4,26000,Petrol,Dealer,Manual,0,2.9
+sx4,2014,9.2,36000,Diesel,Dealer,Manual,0,7.2
+ciaz,2013,7.7,42000,Petrol,Dealer,Manual,1,5.0
+ertiga,2018,11.2,16000,Diesel,Dealer,Manual,0,9.4
+swift,2012,6.0,48000,Diesel,Dealer,Manual,1,3.9
+ritz,2015,6.0,19000,Petrol,Dealer,Manual,0,4.6
+wagon r,2017,4.7,14000,CNG,Dealer,Manual,0,4.0
+alto 800,2016,3.6,15000,Petrol,Dealer,Manual,0,3.2
+ciaz,2014,8.4,39000,Diesel,Dealer,Manual,1,6.4
+sx4,2012,9.0,43000,Diesel,Dealer,Manual,0,6.2
+ertiga,2013,8.7,47000,Diesel,Dealer,Manual,1,5.3
+swift,2016,7.5,22000,Petrol,Dealer,Manual,0,6.0
+wagon r,2010,4.1,55000,CNG,Dealer,Manual,2,2.0
+alto 800,2018,3.7,13000,Petrol,Dealer,Manual,0,3.4
+ritz,2013,5.7,26000,Petrol,Dealer,Manual,0,3.3
+ciaz,2016,8.9,23000,Diesel,Dealer,Manual,0,6.8
+s cross,2014,8.5,29000,Diesel,Dealer,Manual,0,6.1
+ertiga,2017,11.0,17000,Diesel,Dealer,Automatic,0,9.1
+dzire,2011,7.1,60000,Petrol,Dealer,Manual,1,3.5
+wagon r,2013,4.3,45000,CNG,Dealer,Manual,0,3.0
+alto 800,2014,3.3,31000,Petrol,Dealer,Manual,0,2.8
+ritz,2015,5.8,19000,Petrol,Dealer,Manual,0,4.5
+ciaz,2012,8.1,45000,Diesel,Dealer,Manual,1,5.3
+swift,2010,6.3,52000,Diesel,Dealer,Manual,2,3.0
+ertiga,2014,7.4,40000,Diesel,Individual,Manual,1,5.0
+sx4,2015,9.4,34000,Diesel,Dealer,Manual,0,7.0
+wagon r,2016,4.6,11000,CNG,Dealer,Manual,0,4.2
+alto 800,2017,3.5,13000,Petrol,Dealer,Manual,0,3.1
+dzire,2009,6.4,79000,Petrol,Dealer,Manual,2,2.3
+ritz,2014,6.0,23000,Petrol,Dealer,Manual,0,3.8
+ciaz,2016,9.1,21000,Petrol,Dealer,Automatic,0,7.1
+swift,2013,6.7,38000,Diesel,Dealer,Manual,0,4.3
+ertiga,2015,7.9,27000,Diesel,Dealer,Manual,0,6.1
+s cross,2017,9.2,16000,Diesel,Dealer,Manual,0,7.8
+wagon r,2012,4.1,39000,CNG,Dealer,Manual,1,3.0
+alto 800,2011,3.2,60000,Petrol,Dealer,Manual,2,1.9
+sx4,2015,9.7,17000,Diesel,Dealer,Manual,0,7.7
+ciaz,2014,8.3,35000,Petrol,Dealer,Manual,0,6.3
+ritz,2013,5.5,40000,Petrol,Dealer,Manual,0,3.0
+ertiga,2018,10.9,18000,Diesel,Dealer,Automatic,0,9.0
+swift,2016,7.2,24000,Diesel,Individual,Manual,0,5.6
+dzire,2008,6.8,77000,Petrol,Dealer,Manual,1,2.8
+wagon r,2011,4.0,52000,CNG,Dealer,Manual,2,2.5
+alto 800,2015,3.4,26000,Petrol,Dealer,Manual,0,2.9
+sx4,2014,9.2,36000,Diesel,Dealer,Manual,0,7.2
+ciaz,2013,7.7,42000,Petrol,Dealer,Manual,1,5.0
+ertiga,2018,11.2,16000,Diesel,Dealer,Manual,0,9.4
+swift,2012,6.0,48000,Diesel,Dealer,Manual,1,3.9
+ritz,2015,6.0,19000,Petrol,Dealer,Manual,0,4.6
+wagon r,2017,4.7,14000,CNG,Dealer,Manual,0,4.0
+alto 800,2016,3.6,15000,Petrol,Dealer,Manual,0,3.2
+ciaz,2014,8.4,39000,Diesel,Dealer,Manual,1,6.4
+sx4,2012,9.0,43000,Diesel,Dealer,Manual,0,6.2
+ertiga,2013,8.7,47000,Diesel,Dealer,Manual,1,5.3
+swift,2016,7.5,22000,Petrol,Dealer,Manual,0,6.0
+
